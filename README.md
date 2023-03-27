@@ -1,5 +1,5 @@
 # gpu-stress-test
 ## run bellow command after building 
-`cargo run -- cpu`
-`cargo run -- gpu`
-`cargo run -- tgpu`
+`cargo run -- cpu` </br>
+`cargo run -- gpu` </br>
+`cargo run -- tgpu` </br>
